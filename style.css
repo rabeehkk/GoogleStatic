@@ -1,0 +1,121 @@
+body{
+    margin: 0%;
+    padding: 0%;
+background-color:rgba(32,33,36,1) ;
+
+}
+
+.navbar{
+    padding: 10px 2%;
+    justify-content: end;
+    top: 0;
+    display: flex;
+    align-items: flex-end;
+    gap: 25px;
+    background-color:rgba(32,33,36,1);
+    color: white;
+    
+    
+}
+
+.section1{
+    font-family: arial,sans-serif;
+    color: #fafafa;
+    
+    height: 150px;
+    padding-left: 600px;
+    font-size: 6rem; 
+    padding-top: 45px;
+   
+}
+.mahadevan{
+  padding: 500;
+   
+    width: 500px;
+}
+.searchbar input{
+width: 550px;
+height: 35px;
+border-radius: 80px;
+background-color: rgba(32,33,36,1);
+padding-left: 50px;
+margin-left: 450px;
+border-color: dimgrey;
+border-style: solid;
+
+
+}
+.ab{
+    margin-left: 470px;
+    margin-top:-30px;
+}
+.searchbar input:hover{
+    background-color: #9aa0a6;
+}
+.ac img{
+    width: 20px;
+    margin-left: 1013px;
+    cursor: pointer;
+    
+}
+.ac{
+    margin-top: -25px;
+}
+.ad img{
+    width: 30px;
+    margin-left: 983px;
+    cursor: pointer;
+}
+.ad{
+    margin-top: -27px;
+}
+.button{
+    margin-left: 650px;
+    margin-top: 20px;
+    height: 300px;
+    
+}
+.ae{
+   height: 37px;
+   width: 137px;
+   border-radius: 5px;
+   background-color:#303134;
+   border:none;
+   color: azure;
+   cursor: pointer;
+}
+footer{
+    height: 95px;
+    color: #fffbfb;
+    background-color: #121213;
+}
+.footer1{
+
+    height:48px;
+    border-bottom: 1px solid #3c4043;
+}
+.footer2{
+    height: 47px;
+    display: flex;
+}
+.list{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: #9aa0a6;
+    cursor: pointer;
+}
+.india{
+    margin-left: 30px;
+    padding-top: 17px;
+    color: #9aa0a6;
+}
+.list2{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: #9aa0a6;
+    margin-left: 870px;
+    cursor: pointer;
+    
+}
